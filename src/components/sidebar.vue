@@ -1,7 +1,7 @@
 <template>
   <v-layout
     wrap
-    style="height: 64px;"
+    style="height: 56px;"
   >
     <v-toolbar color="cyan darken-4" dark fixed>
       <v-toolbar-side-icon
