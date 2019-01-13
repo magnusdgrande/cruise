@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cf846c34c0a08590cfd8ff782c39b458.js"
+  "/precache-manifest.f68cc5347e52c7d27a2e4d0644a612d6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cruisecast"});

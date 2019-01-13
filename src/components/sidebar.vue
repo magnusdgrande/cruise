@@ -59,7 +59,7 @@
 
           <v-list-tile-content>
             <v-list-tile-title>
-              <router-link to="/about">Om</router-link>
+              <router-link to="/about">Liste</router-link>
             </v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
